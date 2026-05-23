@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
 ## Database
 | Problem Name | Difficulty |
