@@ -29,6 +29,7 @@
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
 ## Database
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
