@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0175-combine-two-tables/) | Easy |
+| [0184-department-highest-salary](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0184-department-highest-salary/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
