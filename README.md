@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
+| [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0242-valid-anagram/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
