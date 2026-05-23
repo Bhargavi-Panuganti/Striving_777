@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
@@ -78,6 +79,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
