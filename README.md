@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
+| [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -39,6 +40,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -96,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
+| [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
