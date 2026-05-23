@@ -21,6 +21,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
@@ -73,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
