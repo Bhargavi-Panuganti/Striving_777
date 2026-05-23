@@ -10,6 +10,7 @@
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,4 +35,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
