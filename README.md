@@ -22,4 +22,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
