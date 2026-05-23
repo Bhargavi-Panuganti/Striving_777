@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0175-combine-two-tables/) | Easy |
+| [0177-nth-highest-salary](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0178-rank-scores/) | Medium |
 | [0184-department-highest-salary](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0184-department-highest-salary/) | Medium |
 ## Greedy
