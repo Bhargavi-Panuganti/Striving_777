@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Two Pointers
@@ -47,6 +48,7 @@
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
