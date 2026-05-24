@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
@@ -108,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
