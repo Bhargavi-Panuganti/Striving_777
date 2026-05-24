@@ -36,6 +36,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0022-generate-parentheses/) | Medium |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0242-valid-anagram/) | Easy |
@@ -115,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0206-reverse-linked-list/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
