@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0344-reverse-string/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
