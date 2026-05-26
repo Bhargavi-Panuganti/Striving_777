@@ -20,6 +20,7 @@
 | [0518-coin-change-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1049-last-stone-weight-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
+| [1049-last-stone-weight-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
