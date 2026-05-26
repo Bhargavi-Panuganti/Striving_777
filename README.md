@@ -116,6 +116,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 ## Stack
@@ -126,6 +127,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0206-reverse-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
