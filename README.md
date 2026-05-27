@@ -14,6 +14,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -47,6 +48,7 @@
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0213-house-robber-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
