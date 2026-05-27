@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
+| [0078-subsets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
@@ -102,6 +103,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 ## Memoization
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0494-target-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
