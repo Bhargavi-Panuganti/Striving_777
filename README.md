@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -54,6 +55,7 @@
 | [0338-counting-bits](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -94,6 +96,7 @@
 | [0091-decode-ways](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0091-decode-ways/) | Medium |
 | [0242-valid-anagram](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0344-reverse-string/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
