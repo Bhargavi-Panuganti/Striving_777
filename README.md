@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0046-permutations](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0078-subsets/) | Medium |
@@ -143,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0494-target-sum/) | Medium |
 ## Tree
