@@ -39,6 +39,7 @@
 | [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 | [0474-ones-and-zeroes](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0518-coin-change-ii/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
