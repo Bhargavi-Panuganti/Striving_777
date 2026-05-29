@@ -77,6 +77,7 @@
 | [0178-rank-scores](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0184-department-highest-salary/) | Medium |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
