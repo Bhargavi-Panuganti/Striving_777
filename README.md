@@ -34,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
