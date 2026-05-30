@@ -31,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0344-reverse-string/) | Easy |
 ## Math
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
@@ -146,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0206-reverse-linked-list/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
