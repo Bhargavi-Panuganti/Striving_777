@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0055-jump-game/) | Medium |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0078-subsets/) | Medium |
 | [0494-target-sum](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0494-target-sum/) | Medium |
