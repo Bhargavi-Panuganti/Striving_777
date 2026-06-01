@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
 | [0279-perfect-squares](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0279-perfect-squares/) | Medium |
+| [0326-power-of-three](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0326-power-of-three/) | Easy |
 | [0343-integer-break](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0343-integer-break/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1025-divisor-game](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1025-divisor-game/) | Easy |
@@ -143,6 +144,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0326-power-of-three/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
