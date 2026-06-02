@@ -83,6 +83,7 @@
 | [0180-consecutive-numbers](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0184-department-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Bhargavi-Panuganti/Striving_777/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Greedy
